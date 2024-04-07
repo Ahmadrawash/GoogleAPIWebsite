@@ -1,0 +1,549 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - laptops",
+        "totalResults": "5370000000",
+        "searchTerms": "laptops",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - laptops",
+        "totalResults": "5370000000",
+        "searchTerms": "laptops",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ]
+  },
+  "context": {
+    "title": "AhmadSearchEngine"
+  },
+  "searchInformation": {
+    "searchTime": 0.42725,
+    "formattedSearchTime": "0.43",
+    "totalResults": "5370000000",
+    "formattedTotalResults": "5,370,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Laptops & Notebook Computers - Best Buy",
+      "htmlTitle": "\u003cb\u003eLaptops\u003c/b\u003e &amp; Notebook Computers - Best Buy",
+      "link": "https://www.bestbuy.com/site/computers-pcs/laptop-computers/abcat0502000.c?id=abcat0502000",
+      "displayLink": "www.bestbuy.com",
+      "snippet": "Popular laptops (15 items) ...",
+      "htmlSnippet": "Popular \u003cb\u003elaptops\u003c/b\u003e (15 items)&nbsp;...",
+      "cacheId": "hnDINwTZMe4J",
+      "formattedUrl": "https://www.bestbuy.com/site/computers-pcs/laptop.../abcat0502000.c?id...",
+      "htmlFormattedUrl": "https://www.bestbuy.com/site/computers-pcs/laptop.../abcat0502000.c?id...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgEoMe9hZOAImL1AgHN8AQxUP3XoPIlxPBDknpFSuqMwNa8RgSu_3vP5LW&s",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "p:domain_verify": "2fe2282e158c475589f2792766b66a79",
+            "application-name": "BestBuy.com",
+            "msapplication-config": "/~assets/bby/_com/shop/global-metadata/dist/client/IEconfig.xml",
+            "opt-targeting": "{\"type\":\"Browse,DeptCat\"}",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1",
+            "msapplication-tooltip": "BestBuy - Let's talk about what's possible.",
+            "google-play-app": "app-id=com.bestbuy.android"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/dam/top-SOL-117263-MicrosoftJunkLandingPage_DER-ce6915f8-1f48-4816-9c93-16d796fb254e.jpg;maxHeight=350;maxWidth=1000"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Laptops - Computers & Tablets: Electronics ... - Amazon.com",
+      "htmlTitle": "Laptops - Computers & Tablets: Electronics ... - Amazon.com",
+      "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b?ie=UTF8&node=565108",
+      "displayLink": "www.amazon.com",
+      "snippet": "Shop a wide selection of Laptops including 2 in 1 and traditional laptops at Amazon.com. Free shipping and free returns on eligible items.",
+      "htmlSnippet": "Shop a wide selection of \u003cb\u003eLaptops\u003c/b\u003e including 2 in 1 and traditional \u003cb\u003elaptops\u003c/b\u003e at Amazon.com. Free shipping and free returns on eligible items.",
+      "formattedUrl": "https://www.amazon.com/Notebooks-Laptop-Computers/b?ie=UTF8...",
+      "htmlFormattedUrl": "https://www.amazon.com/Notebooks-Laptop-Computers/b?ie=UTF8...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmigc2OnliGmTgJzZyKuY8r77_EmLhnCHtlVExm3PuNUsu_hAOJlHN3HvZ&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "theme-color": "#131921",
+            "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+            "og:title": "Amazon.com: Laptops - Computers & Tablets: Electronics: Traditional Laptops, 2 in 1 Laptops & More",
+            "og:description": "Shop a wide selection of Laptops including 2 in 1 and traditional laptops at Amazon.com. Free shipping and free returns on eligible items.",
+            "anti-csrftoken-a2z": "hME+V52A0vIXV+ue+mWBLe4HrUYSQ3+4uGaRNv23CJSWAAAAAGYScSY3NjAwODUyYS05ODBhLTRiODMtYjE1Ny04ZDAwYzQ0NjhlNGI=",
+            "encrypted-slate-token": "AnYxTC7Qy5JA4tB8n7pZmWRhLzwffDiqgJjMFZDIBpJVUTXcUxOCOaCDD9oP1rrR19VNLFuZ3WQDsqGghCwWXi5KEZPVgJ8hCmsn23r/wVssctxl25GV+fNXJZ/Cge//d0VGpYiDs3K5ni4Gyo9NICQPjJ56Bpyr9zVSpzzaav+FzZXWOT9uUzDnjrpZ6Zne0jb0KDYfC3FuP8Qr2mZe4uHwNmiUXhH71h/xE5b5zTR/kSV7bl2RSQK8TewnhD10HaHW97hafnSQ387WjUmzxEq8hA=="
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://m.media-amazon.com/images/I/41EsVC1kp8L._SR290,290_.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Laptops and Notebooks: PC Laptop, Notebook - Best Buy",
+      "htmlTitle": "\u003cb\u003eLaptops\u003c/b\u003e and Notebooks: PC \u003cb\u003eLaptop\u003c/b\u003e, Notebook - Best Buy",
+      "link": "https://www.bestbuy.com/site/laptop-computers/all-laptops/pcmcat138500050001.c?id=pcmcat138500050001",
+      "displayLink": "www.bestbuy.com",
+      "snippet": "Items 1 - 18 of 1315 ... Shop all new laptops at Best Buy. Compare and read reviews on the vast selection of laptop computers, notebooks and new PC and Mac ...",
+      "htmlSnippet": "Items 1 - 18 of 1315 \u003cb\u003e...\u003c/b\u003e Shop all new \u003cb\u003elaptops\u003c/b\u003e at Best Buy. Compare and read reviews on the vast selection of \u003cb\u003elaptop\u003c/b\u003e computers, notebooks and new PC and Mac&nbsp;...",
+      "formattedUrl": "https://www.bestbuy.com/site/laptop...laptops/pcmcat138500050001.c?id...",
+      "htmlFormattedUrl": "https://www.bestbuy.com/site/laptop...\u003cb\u003elaptops\u003c/b\u003e/pcmcat138500050001.c?id...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXwipW-oFFgFgX2Rd8NaiGQ-roo2Pz5Yx34ERQIVRnFOVePpy3vQeahs_&s",
+            "width": "275",
+            "height": "184"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "BestBuy.com",
+            "msapplication-config": "/~assets/bby/_com/shop/global-metadata/dist/client/IEconfig.xml",
+            "opt-targeting": "{\"query\":\"pcmcat138500050001\",\"queryType\":\"browse\"}",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1",
+            "msapplication-tooltip": "BestBuy - Let's talk about what's possible.",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6550/6550427_sd.jpg;maxHeight=200;maxWidth=300"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Laptops - Walmart.com",
+      "htmlTitle": "\u003cb\u003eLaptops\u003c/b\u003e - Walmart.com",
+      "link": "https://www.walmart.com/cp/computers-laptops-tablets/1089430",
+      "displayLink": "www.walmart.com",
+      "snippet": "Shop Laptops at Walmart.com and find popular brands including Dell, HP, Samsung, Apple and Acer. Save money. Live better.",
+      "htmlSnippet": "Shop \u003cb\u003eLaptops\u003c/b\u003e at Walmart.com and find popular brands including Dell, HP, Samsung, Apple and Acer. Save money. Live better.",
+      "cacheId": "BCikNtU5KNQJ",
+      "formattedUrl": "https://www.walmart.com/cp/computers-laptops-tablets/1089430",
+      "htmlFormattedUrl": "https://www.walmart.com/cp/computers-\u003cb\u003elaptops\u003c/b\u003e-tablets/1089430",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7vpj3eDX85Vz2U41OfqUCChbj9n0cyUyBcppXpeaapj9mB6ZzAFvXOGa&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "next-head-count": "16",
+            "fb:app_id": "105223049547814",
+            "og:type": "Website",
+            "og:site_name": "Walmart.com",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1, interactive-widget=resizes-content",
+            "og:title": "Laptops - Walmart.com",
+            "og:url": "https://www.walmart.com/cp/computers-laptops-tablets/1089430",
+            "og:description": "Shop Laptops at Walmart.com and find popular brands including Dell, HP, Samsung, Apple and Acer. Save money. Live better."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ee85/k2-_17719ba3-75bc-455c-840c-221636384f44.v1.jpg?odnHeight=192&odnWidth=343&odnBg="
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Laptop Computers | HP® Store",
+      "htmlTitle": "\u003cb\u003eLaptop\u003c/b\u003e Computers | HP® Store",
+      "link": "https://www.hp.com/us-en/shop/cat/laptops",
+      "displayLink": "www.hp.com",
+      "snippet": "HP's laptop designs cater to modern lifestyles, balancing elegance with functionality. Our range includes slim, lightweight models like the HP Stream, ideal for ...",
+      "htmlSnippet": "HP&#39;s \u003cb\u003elaptop\u003c/b\u003e designs cater to modern lifestyles, balancing elegance with functionality. Our range includes slim, lightweight models like the HP Stream, ideal for&nbsp;...",
+      "cacheId": "f0C3DRBsN1YJ",
+      "formattedUrl": "https://www.hp.com/us-en/shop/cat/laptops",
+      "htmlFormattedUrl": "https://www.hp.com/us-en/shop/cat/\u003cb\u003elaptops\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqbIDTOGuwzWp3A6itBcmcxq9f2H0ufQiqOATza2tLcanhWjTs-DVbKY&s",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "theme-color": "#0096d6",
+            "hp_design_version": "global_ux",
+            "web_section_id": "R329",
+            "target_country": "us",
+            "page_level": "category",
+            "lifecycle": "gateway",
+            "product_type": "laptops",
+            "bu": "ps",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "segment": "segment neutral",
+            "udl": "enable",
+            "family": "shared",
+            "simple_title": "laptops-category"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08867121.png?impolicy=Png_Res"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Laptops for Sale | Save Big on High Quality Laptops | Lenovo US",
+      "htmlTitle": "\u003cb\u003eLaptops\u003c/b\u003e for Sale | Save Big on High Quality \u003cb\u003eLaptops\u003c/b\u003e | Lenovo US",
+      "link": "https://www.lenovo.com/us/en/d/deals/laptops/",
+      "displayLink": "www.lenovo.com",
+      "snippet": "Shipping Options · 13th Generation Intel® Core™ i5-1335U Processor (E-cores up to 3.40 GHz P-cores up to 4.60 GHz) · Windows 11 Home Lenovo recommends Windows ...",
+      "htmlSnippet": "Shipping Options &middot; 13th Generation Intel® Core™ i5-1335U Processor (E-cores up to 3.40 GHz P-cores up to 4.60 GHz) &middot; Windows 11 Home Lenovo recommends Windows&nbsp;...",
+      "cacheId": "Db-x4Y49Mc0J",
+      "formattedUrl": "https://www.lenovo.com/us/en/d/deals/laptops/",
+      "htmlFormattedUrl": "https://www.lenovo.com/us/en/d/deals/\u003cb\u003elaptops\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2M9LiDHDFXbybT1W7v0sUgpSMj93pbW_QtJJq9V3_GfzBrvBTiKHDyg&s",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "country": "US",
+            "regioncode": "NA",
+            "channel": "B2C",
+            "main": "www.lenovo.com",
+            "language": "en",
+            "currencycode": "USD",
+            "storeaccesstype": "0",
+            "storeid": "usweb",
+            "lenovo.country": "us",
+            "datetime": "2024-03-27 20:05:40",
+            "currencysymbol": "$",
+            "productsegment": "isg",
+            "specialterminal": "mobile",
+            "area": "Public",
+            "dcsc": "us-dcsc.lenovo.com",
+            "static": "j1-ofp.static.pub",
+            "openapi": "openapi.lenovo.com",
+            "currencyswitchtoggle": "1",
+            "envi": "production",
+            "requestid": "681b212471a040b145d36432ed3a187d",
+            "dc.language": "en",
+            "taxonomytype": "dealspage",
+            "page_access_type": "-1",
+            "preview": "preview.lenovo.com",
+            "bpid": "US00000001",
+            "subtaxonomy": "primary",
+            "admin": "admin.lenovo.com",
+            "title": "Laptops for Sale | Save Big on High Quality Laptops",
+            "paymentdomain": "payments.lenovo.com",
+            "originstore": "usweb",
+            "platform": "MT-Flash",
+            "sid": "0e49db5e-0834-41ba-84fe-f796497ba9fc",
+            "geo": "us",
+            "bu": "Public",
+            "currency": "USD",
+            "storeinfo.storetype": "Public",
+            "localdomain": "prod.gl.lenovouat.com",
+            "cc": "us",
+            "sr_eligible": "false",
+            "siteroot": "/us/en",
+            "storeinfo.salestype": "DIRECT",
+            "storeinfo.storeid": "usweb",
+            "rootdomain": "lenovo.com",
+            "storetype": "Public",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5",
+            "lenovo.language": "en",
+            "lc": "en",
+            "adobeparam": "DLP Page",
+            "account": "account.lenovo.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://p2-ofp.static.pub/ShareResource/na/products/thinkpad/400x300/lenovo-thinkpad-x1-carbon-gen-11-2023.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Why I Just Asked My Students To Put Their Laptops Away | by Clay ...",
+      "htmlTitle": "Why I Just Asked My Students To Put Their \u003cb\u003eLaptops\u003c/b\u003e Away | by Clay ...",
+      "link": "https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368",
+      "displayLink": "medium.com",
+      "snippet": "Sep 8, 2014 ... The results demonstrate that multitasking on a laptop poses a significant distraction to both users and fellow students and can be detrimental ...",
+      "htmlSnippet": "Sep 8, 2014 \u003cb\u003e...\u003c/b\u003e The results demonstrate that multitasking on a \u003cb\u003elaptop\u003c/b\u003e poses a significant distraction to both users and fellow students and can be detrimental&nbsp;...",
+      "cacheId": "6ugf8mv7XWcJ",
+      "formattedUrl": "https://medium.com/.../why-i-just-asked-my-students-to-put-their-laptops-a...",
+      "htmlFormattedUrl": "https://medium.com/.../why-i-just-asked-my-students-to-put-their-\u003cb\u003elaptops\u003c/b\u003e-a...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK8vWn5wqbYyG8idmzFspOu7YTC61lZ1JShFWXYeK29U6T1elNV6eLFg&s",
+            "width": "511",
+            "height": "99"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://miro.medium.com/v2/resize:fit:1037/1*DkHtqwL4tLqUlAZyzUZQ-w.png",
+            "twitter:app:url:iphone": "medium://p/7f5f7c50f368",
+            "theme-color": "#000000",
+            "article:published_time": "2016-01-04T04:09:50.471Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:label1": "Reading time",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Why I Just Asked My Students To Put Their Laptops Away | by Clay Shirky | Medium",
+            "al:ios:url": "medium://p/7f5f7c50f368",
+            "og:description": "I teach theory and practice of social media at NYU, and am an advocate and activist for the free culture movement. I am a pretty unlikely…",
+            "twitter:creator": "@cshirky",
+            "al:ios:app_store_id": "828256236",
+            "twitter:data1": "9 min read",
+            "twitter:site": "@Medium",
+            "og:type": "article",
+            "twitter:title": "Why I Just Asked My Students To Put Their Laptops Away…",
+            "al:ios:app_name": "Medium",
+            "author": "Clay Shirky",
+            "og:title": "Why I Just Asked My Students To Put Their Laptops Away…",
+            "al:web:url": "https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368",
+            "article:author": "https://medium.com/@cshirky",
+            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:1037/1*DkHtqwL4tLqUlAZyzUZQ-w.png",
+            "al:android:url": "medium://p/7f5f7c50f368",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+            "twitter:description": "I teach theory and practice of social media at NYU, and am an advocate and activist for the free culture movement. I am a pretty unlikely…",
+            "og:url": "https://medium.com/@cshirky/why-i-just-asked-my-students-to-put-their-laptops-away-7f5f7c50f368",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/v2/resize:fit:1037/1*DkHtqwL4tLqUlAZyzUZQ-w.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Your One-Stop Shop for Laptops, PCs, Tablets & More | Lenovo US",
+      "htmlTitle": "Your One-Stop Shop for \u003cb\u003eLaptops\u003c/b\u003e, PCs, Tablets &amp; More | Lenovo US",
+      "link": "https://www.lenovo.com/us/en/",
+      "displayLink": "www.lenovo.com",
+      "snippet": "Get the best deals on Lenovo laptops, tablets and PCs at our computer store. Shop now and save big!call our sales team ☎ 1-855-2-LENOVO (1-855-253-6686)",
+      "htmlSnippet": "Get the best deals on Lenovo \u003cb\u003elaptops\u003c/b\u003e, tablets and PCs at our computer store. Shop now and save big!call our sales team ☎ 1-855-2-LENOVO (1-855-253-6686)",
+      "formattedUrl": "https://www.lenovo.com/us/en/",
+      "htmlFormattedUrl": "https://www.lenovo.com/us/en/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy5Gj7-NFZ1pKOmjRuF5lKHYXbfq8zSzVKd9vHc9A2ns3cUBMTH70qhZM&s",
+            "width": "309",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "country": "US",
+            "currencyseperatedigits": "3",
+            "regioncode": "NA",
+            "channel": "B2C",
+            "main": "www.lenovo.com",
+            "language": "en",
+            "currencycode": "USD",
+            "storeaccesstype": "0",
+            "storeid": "usweb",
+            "lenovo.country": "us",
+            "datetime": "2024-03-20 08:53:34",
+            "currencysymbol": "$",
+            "productsegment": "idg",
+            "specialterminal": "mobile",
+            "area": "Public",
+            "dcsc": "us-dcsc.lenovo.com",
+            "static": "j1-ofp.static.pub",
+            "openapi": "openapi.lenovo.com",
+            "envi": "production",
+            "currencydecimalnums": "2",
+            "requestid": "8f5a2bfa77e4d8b135f6d619db107250",
+            "dc.language": "en",
+            "taxonomytype": "homepage",
+            "page_access_type": "-1",
+            "preview": "preview.lenovo.com",
+            "bpid": "US00000001",
+            "subtaxonomy": "ftv",
+            "admin": "admin.lenovo.com",
+            "title": "Your One-Stop Shop for Laptops, PCs, Tablets & More",
+            "paymentdomain": "payments.lenovo.com",
+            "originstore": "usweb",
+            "platform": "MT-Flash",
+            "sid": "0e49db5e-0834-41ba-84fe-f796497ba9fc",
+            "geo": "us",
+            "bu": "Public",
+            "currency": "USD",
+            "storeinfo.storetype": "Public",
+            "localdomain": "prod.gl.lenovouat.com",
+            "cc": "us",
+            "sr_eligible": "false",
+            "siteroot": "/us/en",
+            "storeinfo.salestype": "DIRECT",
+            "storeinfo.storeid": "usweb",
+            "rootdomain": "lenovo.com",
+            "storetype": "Public",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5",
+            "lenovo.language": "en",
+            "lc": "en",
+            "adobeparam": "FTV Homepage",
+            "account": "account.lenovo.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://p2-ofp.static.pub/ShareResource/na/smb/hero/lenovo-pro-for-business-august-2023-mobile.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gaming Laptops｜ROG - Republic of Gamers｜Global",
+      "htmlTitle": "Gaming \u003cb\u003eLaptops\u003c/b\u003e｜ROG - Republic of Gamers｜Global",
+      "link": "https://rog.asus.com/laptops-group/",
+      "displayLink": "rog.asus.com",
+      "snippet": "HOT PRODUCTS · ROG Zephyrus G14 (2024). NVIDIA GeForce RTX™ 4070 Laptop GPU · ROG Zephyrus G16 (2024). NVIDIA GeForce RTX™ 4090 Laptop GPU · ROG Strix SCAR 18 ( ...",
+      "htmlSnippet": "HOT PRODUCTS &middot; ROG Zephyrus G14 (2024). NVIDIA GeForce RTX™ 4070 \u003cb\u003eLaptop\u003c/b\u003e GPU &middot; ROG Zephyrus G16 (2024). NVIDIA GeForce RTX™ 4090 \u003cb\u003eLaptop\u003c/b\u003e GPU &middot; ROG Strix SCAR 18 (&nbsp;...",
+      "cacheId": "WIFdlEQrJTsJ",
+      "formattedUrl": "https://rog.asus.com/laptops-group/",
+      "htmlFormattedUrl": "https://rog.asus.com/\u003cb\u003elaptops\u003c/b\u003e-group/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd2-gpaQU9djsDfAJjseX2Yp_mHc_cby-2pAeaGhOfAYKo5HnYtlLq5wy7&s",
+            "width": "284",
+            "height": "178"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:title": "Gaming Laptops｜ROG - Republic of Gamers｜Global",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "@ROG",
+            "twitter:site": "@ROG",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "ROG makes the best gaming laptops for PC & lifestyle gamers, competitive eSports professionals, and content creators. Our innovative devices deliver top performance and premium experiences for all of users.",
+            "og:title": "Gaming Laptops｜ROG - Republic of Gamers｜Global",
+            "og:url": "laptops-group/",
+            "og:description": "ROG makes the best laptops for PC & lifestyle gaming, eSports, and content creation. We innovate to deliver top performance and premium experiences for everyone."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dlcdnwebimgs.asus.com/gain/4A3B08BB-126C-4F67-A1B0-F69229291131/w750/h470"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Computers, Monitors & Technology Solutions | Dell USA",
+      "htmlTitle": "Computers, Monitors &amp; Technology Solutions | Dell USA",
+      "link": "https://www.dell.com/",
+      "displayLink": "www.dell.com",
+      "snippet": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories.",
+      "htmlSnippet": "Dell provides technology solutions, services &amp; support. Buy \u003cb\u003eLaptops\u003c/b\u003e, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming &amp; Accessories.",
+      "cacheId": "5jlhJKwLg8cJ",
+      "formattedUrl": "https://www.dell.com/",
+      "htmlFormattedUrl": "https://www.dell.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEI_8G_q32_2Z-xI1B_-2RX7S7ZLvnrvD7KsVTFXN3IgRQ0A7tr_HPJeSr&s",
+            "width": "295",
+            "height": "171"
+          }
+        ],
+        "metatags": [
+          {
+            "country": "us",
+            "og:image": "https://i.dell.com/is/svg/brand-assets/dell-logos/delltech-logo-vertical-blue-rgb.svg",
+            "twitter:card": "Homepage",
+            "og:site_name": "Dell",
+            "bv:cookies": "true",
+            "twitter:url": "https://www.dell.com/en-us",
+            "channel": "https://www.dell.com",
+            "language": "en",
+            "smch": "3;172.16.0.85:61064",
+            "title": "Computers, Monitors & Technology Solutions | Dell USA",
+            "og:description": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories",
+            "twitter:image": "https://i.dell.com/is/svg/brand-assets/dell-logos/delltech-logo-vertical-blue-rgb.svg",
+            "twitter:site": "@Dell",
+            "bodyhiding": "false",
+            "info": "ver:1.0.1.20278,environment:Production,gen @ 04/07/24 06:30:28,DC:S3B_CORE01_01A",
+            "pagename": "dell.com responsive homepage",
+            "og:type": "Homepage",
+            "twitter:title": "Computers, Monitors & Technology Solutions | Dell USA",
+            "lastmodifieddate": "02/02/24 06:13:48",
+            "og:title": "Computers, Monitors & Technology Solutions | Dell USA",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Dell provides technology solutions, services & support. Buy Laptops, Touch Screen PCs, Desktops, Servers, Storage, Monitors, Gaming & Accessories",
+            "region": "us",
+            "og:url": "https://www.dell.com/en-us",
+            "dc": "dell"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.dell.com/is/svg/brand-assets/dell-logos/delltech-logo-vertical-blue-rgb.svg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - microphones",
+        "totalResults": "1870000000",
+        "searchTerms": "microphones",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - microphones",
+        "totalResults": "1870000000",
+        "searchTerms": "microphones",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ]
+  },
+  "context": {
+    "title": "AhmadSearchEngine"
+  },
+  "searchInformation": {
+    "searchTime": 0.371449,
+    "formattedSearchTime": "0.37",
+    "totalResults": "1870000000",
+    "formattedTotalResults": "1,870,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Microphones",
+      "htmlTitle": "\u003cb\u003eMicrophones\u003c/b\u003e",
+      "link": "https://www.shure.com/en-US/products/microphones",
+      "displayLink": "www.shure.com",
+      "snippet": "123 results ... Vocal Microphone. The Shure SM7B is the iconic dynamic vocal microphone you've already heard. It is perfect for professional podcasters, streamers, ...",
+      "htmlSnippet": "123 results \u003cb\u003e...\u003c/b\u003e Vocal \u003cb\u003eMicrophone\u003c/b\u003e. The Shure SM7B is the iconic dynamic vocal \u003cb\u003emicrophone\u003c/b\u003e you&#39;ve already heard. It is perfect for professional podcasters, streamers,&nbsp;...",
+      "cacheId": "FVlZYjE92DkJ",
+      "formattedUrl": "https://www.shure.com/en-US/products/microphones",
+      "htmlFormattedUrl": "https://www.shure.com/en-US/products/\u003cb\u003emicrophones\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGmxOY3D1WBlpYIJ4OZc240GpEzJeBDdcY6ziYWdZJzhsyo_vyeQIk9Bs&s",
+            "width": "232",
+            "height": "217"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shure.com/damfiles/default/global/products/microphones/sm58/sm58_still_live_1920x1800-27_12_2018.jpg-7f6e4a658149cd1f062e31e2afd54b46.jpg",
+            "x-updated-at": "01-03-2024",
+            "og:type": "website",
+            "theme-color": "#000000",
+            "og:title": "Microphones",
+            "language": "en-US",
+            "csrf-param": "authenticity_token",
+            "og:description": "Whichever Shure microphone you grab, you will experience the same high quality audio performance that the industry has trusted for decades.",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "apple-mobile-web-app-capable": "yes",
+            "x-search-weight": "microphone, microphones, best microphone, find microphone, shure microphones",
+            "csrf-token": "QW+fem5GxRf9WOIBZyuGc0dB3UtSHzbITfV5MMilZ4aiPJ3YR5Izmbya8HlRvAQX10JJlr9KY/f/1mbYSQV/SQ==",
+            "dc.language": "en-US",
+            "og:url": "https://www.shure.com/en-US/products/microphones",
+            "x-shure-relaunch": "true",
+            "pubdate": "01-03-2024"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shure.com/damfiles/default/global/products/microphones/sm58/sm58_still_live_1920x1800-27_12_2018.jpg-7f6e4a658149cd1f062e31e2afd54b46.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "DPA Microphones: Pro-audio microphones",
+      "htmlTitle": "DPA \u003cb\u003eMicrophones\u003c/b\u003e: Pro-audio \u003cb\u003emicrophones\u003c/b\u003e",
+      "link": "https://www.dpamicrophones.com/",
+      "displayLink": "www.dpamicrophones.com",
+      "snippet": "WHY DPA. Designing microphones with amazing sound, exceptional consistency and outstanding durability is no easy feat. DPA Microphones draws on more than six ...",
+      "htmlSnippet": "WHY DPA. Designing \u003cb\u003emicrophones\u003c/b\u003e with amazing sound, exceptional consistency and outstanding durability is no easy feat. DPA \u003cb\u003eMicrophones\u003c/b\u003e draws on more than six&nbsp;...",
+      "cacheId": "TVuH-CaJVpsJ",
+      "formattedUrl": "https://www.dpamicrophones.com/",
+      "htmlFormattedUrl": "https://www.dpa\u003cb\u003emicrophones\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhGHm9L3ZY4c_9zfsD_35e5KEyvwM4YvS41gdikfIr5v9n0vVYmsZIRt2a&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "/DPA/media/images/about-us/DPA-family.jpg",
+            "og:type": "Frontpage",
+            "twitter:card": "/DPA/media/images/about-us/DPA-family.jpg",
+            "twitter:title": "DPA Microphones - Pro-audio condenser microphones",
+            "og:site_name": "DPA",
+            "msvalidate.01": "3DDCEE19C9C486316AC7B4BDCAB1CF07",
+            "og:title": "DPA Microphones - Pro-audio condenser microphones",
+            "og:description": "With more than six decades of world-class microphone design experience, DPA creates mics with exceptional sound, consistency and durability.",
+            "twitter:image": "dpa.FrontPage.TwitterImage",
+            "facebook-domain-verification": "akc0wiej2a15joy9jh2bpe590jxzql",
+            "viewport": "initial-scale=1,maximum-scale=1.8,user-scalable=1,width=device-width",
+            "twitter:description": "With more than six decades of world-class microphone design experience, DPA creates mics with exceptional sound, consistency and durability.",
+            "og:locale": "en_US",
+            "og:url": "https://www.dpamicrophones.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.dpamicrophones.com/DPA/media/images/about-us/DPA-family.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microphone - Amazon.com",
+      "htmlTitle": "Microphone - Amazon.com",
+      "link": "https://www.amazon.com/microphone/s?k=microphone",
+      "displayLink": "www.amazon.com",
+      "snippet": "BONAOK Wireless Bluetooth Karaoke Microphone, 3-in-1 Portable Handheld Mic Speaker for All Smartphones,Gifts for Girls Kids Adults All Age Q37(Rose Gold) ... FREE ...",
+      "htmlSnippet": "BONAOK Wireless Bluetooth Karaoke \u003cb\u003eMicrophone\u003c/b\u003e, 3-in-1 Portable Handheld Mic Speaker for All Smartphones,Gifts for Girls Kids Adults All Age Q37(Rose Gold) ... FREE&nbsp;...",
+      "formattedUrl": "https://www.amazon.com/microphone/s?k=microphone",
+      "htmlFormattedUrl": "https://www.amazon.com/microphone/s?k=microphone",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhG8RBTyCxIXtCDHY30XaMwAC8Bvf9I8Qhu94ZHDRDbUYiF5sRG51Sqw&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "theme-color": "#131921",
+            "viewport": "width=device-width, maximum-scale=1, minimum-scale=1, initial-scale=1, user-scalable=no, shrink-to-fit=no",
+            "encrypted-slate-token": "AnYxAvhdG4e1mqyJCb5CpNnOu+/OhVDJ7/AUL9D83LyJEi2Dh9Q01j4g+CjAM94jw2ewXXcbHAiQAkr1WMXPri6LJuTuWIEGavlSB4eWlQyGBU8PYMuuxdlipdecdxo+B/Ygw9l7LC6sVonFYeXmaNVJI/dFGG+Rvl0a0WN8lI1qDT2JKk+kRx2aPvw+PUY/YxTCSmjntK9WvIOLrpbzcQJJqJtUtd/z2aVfwbhFYLuINt2BIxdN/SW/zi195OnZYeiAMkF0L94+qLnwMiU9jl6N"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0f3c14ad-66f7-4a7c-98b8-13e36735c101._SL480_.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microphones and Recording Microphone - Best Buy",
+      "htmlTitle": "\u003cb\u003eMicrophones\u003c/b\u003e and Recording \u003cb\u003eMicrophone\u003c/b\u003e - Best Buy",
+      "link": "https://www.bestbuy.com/site/live-sound/live-sound-microphones/pcmcat152100050038.c?id=pcmcat152100050038",
+      "displayLink": "www.bestbuy.com",
+      "snippet": "Items 1 - 18 of 158 ... Shop Online for Microphones and find a Recording Microphone for you at Best Buy.",
+      "htmlSnippet": "Items 1 - 18 of 158 \u003cb\u003e...\u003c/b\u003e Shop Online for \u003cb\u003eMicrophones\u003c/b\u003e and find a Recording \u003cb\u003eMicrophone\u003c/b\u003e for you at Best Buy.",
+      "formattedUrl": "https://www.bestbuy.com/site/live...microphones/pcmcat152100050038.c?...",
+      "htmlFormattedUrl": "https://www.bestbuy.com/site/live...\u003cb\u003emicrophones\u003c/b\u003e/pcmcat152100050038.c?...",
+      "pagemap": {
+        "metatags": [
+          {
+            "application-name": "BestBuy.com",
+            "msapplication-config": "/~assets/bby/_com/shop/global-metadata/dist/client/IEconfig.xml",
+            "opt-targeting": "{\"query\":\"pcmcat152100050038\",\"queryType\":\"browse\"}",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1",
+            "msapplication-tooltip": "BestBuy - Let's talk about what's possible.",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "RØDE Microphones | Premium Microphones & Audio Equipment",
+      "htmlTitle": "RØDE \u003cb\u003eMicrophones\u003c/b\u003e | Premium \u003cb\u003eMicrophones\u003c/b\u003e &amp; Audio Equipment",
+      "link": "https://rode.com/en-us",
+      "displayLink": "rode.com",
+      "snippet": "Realise your creative vision with RØDE. Cutting edge, high-quality microphones and audio equipment for content creation, studio, live and location recording ...",
+      "htmlSnippet": "Realise your creative vision with RØDE. Cutting edge, high-quality \u003cb\u003emicrophones\u003c/b\u003e and audio equipment for content creation, studio, live and location recording&nbsp;...",
+      "cacheId": "a5burD3-PD8J",
+      "formattedUrl": "https://rode.com/en-us",
+      "htmlFormattedUrl": "https://rode.com/en-us",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7SU29buZ6_NC3z3PneNZIsRve7vfPsAmQm1RWCTaRJQ0_wPOVxfxKQ69&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://edge.rode.com//images/page/1/og-image.jpg",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "author": "RØDE Microphones",
+            "csrf-token": "6zqqOnbhADX2iBVaVPLKJD4s9qk6JMm3gH2PZdfB",
+            "og:title": "RØDE Microphones",
+            "og:url": "https://rode.com/en",
+            "og:description": "Realise your creative vision with RØDE. Cutting edge, high-quality microphones and audio equipment for content creation, studio, live and location recording. Browse our range online.",
+            "facebook-domain-verification": "qy9ye2nbiz73lz8onc3fq6hche87kd"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://edge.rode.com//images/page/1/og-image.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microphones - NASA Mars",
+      "htmlTitle": "\u003cb\u003eMicrophones\u003c/b\u003e - NASA Mars",
+      "link": "https://mars.nasa.gov/mars2020/spacecraft/rover/microphones/",
+      "displayLink": "mars.nasa.gov",
+      "snippet": "The microphone also records sounds of Perseverance using its arm, coring rocks, and the wheels crunching against the surface. The rover may hear the other ...",
+      "htmlSnippet": "The \u003cb\u003emicrophone\u003c/b\u003e also records sounds of Perseverance using its arm, coring rocks, and the wheels crunching against the surface. The rover may hear the other&nbsp;...",
+      "cacheId": "T5N5wAWdTYcJ",
+      "formattedUrl": "https://mars.nasa.gov/mars2020/spacecraft/rover/microphones/",
+      "htmlFormattedUrl": "https://mars.nasa.gov/mars2020/spacecraft/rover/\u003cb\u003emicrophones\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh1gu09Sv-fXe61VStVP-xlRrboXGcucSFqLUEaczAfOATanF3g8n5uEVt&s",
+            "width": "277",
+            "height": "182"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://mars.nasa.gov/imgs/mars2020/rover/3d_rover_interactive.jpg",
+            "theme-color": "#000000",
+            "creator": "mars.nasa.gov",
+            "twitter:title": "Microphones - NASA",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "author": "mars.nasa.gov",
+            "twitter:description": "The Mars 2020 rover will record the sounds of Mars using microphones.",
+            "og:title": "Microphones - NASA",
+            "og:url": "https://mars.nasa.gov/mars2020/spacecraft/rover/microphones/",
+            "og:description": "The Mars 2020 rover will record the sounds of Mars using microphones.",
+            "twitter:image": "https://mars.nasa.gov/imgs/mars2020/rover/3d_rover_interactive.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://mars.nasa.gov/imgs/mars2020/rover/3d_rover_interactive.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microphones | Sweetwater",
+      "htmlTitle": "\u003cb\u003eMicrophones\u003c/b\u003e | Sweetwater",
+      "link": "https://www.sweetwater.com/shop/studio-recording/microphones/",
+      "displayLink": "www.sweetwater.com",
+      "snippet": "What's New In Microphones · DJI Mic 2 Wireless Transmission System - Dual Transmitter · Earthworks DM6 SeisMic Kick Drum Microphone · Positive Grid Spark LINK ...",
+      "htmlSnippet": "What&#39;s New In \u003cb\u003eMicrophones\u003c/b\u003e &middot; DJI Mic 2 Wireless Transmission System - Dual Transmitter &middot; Earthworks DM6 SeisMic Kick Drum \u003cb\u003eMicrophone\u003c/b\u003e &middot; Positive Grid Spark LINK&nbsp;...",
+      "formattedUrl": "https://www.sweetwater.com/shop/studio-recording/microphones/",
+      "htmlFormattedUrl": "https://www.sweetwater.com/shop/studio-recording/\u003cb\u003emicrophones\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1HCn9Xm7tYd9zL-oNIQszLFW9ILI5JtStdTCADq_c-u2al62PuQWOfA&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "pagetype": "other",
+            "theme-color": "#FFFFFF",
+            "og:type": "website",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "skype_toolbar": "SKYPE_TOOLBAR_PARSER_COMPATIBLE",
+            "viewport": "width=device-width,initial-scale=1",
+            "apple-mobile-web-app-title": "Sweetwater",
+            "csrf-token": "eyJub25jZSI6IiIsImlhdCI6MTcxMjQ2OTYxMSwidHRsIjoyNTkyMDAwLCJleHAiOjE3MTUwNjE2MTF9.e7d-QAr8ZWxvSrhoi87NJxJupnVjHr9MC1qIvmYQeQwdBStVk90hU1C6AuN-o3tdaZ3ldzo0XANF5ssk7w0VwA",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.sweetwater.com/m/promotions/navpromo/band-orchestra-rentals/0320-B-ORentals-600x400.png?canvas=6:4"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Studio & Recording",
+            "name": "Studio & Recording",
+            "position": "0"
+          },
+          {
+            "item": "Microphones",
+            "name": "Microphones",
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Microphone - Wikipedia",
+      "htmlTitle": "\u003cb\u003eMicrophone\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Microphone",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Microphone · A microphone, colloquially called a mic (/maɪk/), or mike, is a transducer that converts sound into an electrical signal. · Several types of ...",
+      "htmlSnippet": "\u003cb\u003eMicrophone\u003c/b\u003e &middot; A \u003cb\u003emicrophone\u003c/b\u003e, colloquially called a mic (/maɪk/), or mike, is a transducer that converts sound into an electrical signal. &middot; Several types of&nbsp;...",
+      "cacheId": "gXlHAaQ6W2MJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Microphone",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Microphone",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Shure_mikrofon_55S.jpg/1200px-Shure_mikrofon_55S.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Microphone - Wikipedia",
+            "og:image:height": "1463",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Buy microphones online - quality from beyerdynamic",
+      "htmlTitle": "Buy \u003cb\u003emicrophones\u003c/b\u003e online - quality from beyerdynamic",
+      "link": "https://north-america.beyerdynamic.com/microphones.html",
+      "displayLink": "north-america.beyerdynamic.com",
+      "snippet": "Microphones from beyerdynamic: microphones with the best audio quality for all applications. ✓Stereo Microphones ✓Instrumental Microphones ✓Vocal ...",
+      "htmlSnippet": "\u003cb\u003eMicrophones\u003c/b\u003e from beyerdynamic: \u003cb\u003emicrophones\u003c/b\u003e with the best audio quality for all applications. ✓Stereo \u003cb\u003eMicrophones\u003c/b\u003e ✓Instrumental \u003cb\u003eMicrophones\u003c/b\u003e ✓Vocal&nbsp;...",
+      "cacheId": "2omhcI7C8oAJ",
+      "formattedUrl": "https://north-america.beyerdynamic.com/microphones.html",
+      "htmlFormattedUrl": "https://north-america.beyerdynamic.com/\u003cb\u003emicrophones\u003c/b\u003e.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyBJq8RMyMb_wA0MQcCr5-Dlc2QwAXl1mULujV_P5c5bDWP9GNjxNhpCc&s",
+            "width": "378",
+            "height": "133"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#000000",
+            "og:image": "https://north-america.beyerdynamic.com/media/catalog/category/beyerdynamic-microphones_1.jpg",
+            "theme-color": "#000000",
+            "og:type": "product.group",
+            "og:image:width": "1920",
+            "og:site_name": "beyerdynamic GmbH & Co. KG",
+            "nosto-language": "en",
+            "og:title": "Buy microphones online - quality from beyerdynamic",
+            "og:image:height": "679",
+            "title": "Buy microphones online - quality from beyerdynamic",
+            "og:description": "Microphones from beyerdynamic: microphones with the best audio quality for all applications. ✓Stereo Microphones ✓Instrumental Microphones ✓Vocal Microphones ✓Stage ✓Wireless Microphones ► Buy now online!",
+            "viewport": "width=device-width, initial-scale=1",
+            "nosto-version": "7.2.1",
+            "og:url": "https://north-america.beyerdynamic.com/microphones.html",
+            "nosto-msi-version": "3.1.0",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://north-america.beyerdynamic.com/media/catalog/category/beyerdynamic-microphones_1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "JZ Microphones: handcrafted, premium-level studio microphones ...",
+      "htmlTitle": "JZ \u003cb\u003eMicrophones\u003c/b\u003e: handcrafted, premium-level studio \u003cb\u003emicrophones\u003c/b\u003e ...",
+      "link": "https://usashop.jzmic.com/",
+      "displayLink": "usashop.jzmic.com",
+      "snippet": "GOLDEN DROP CAPSULE ... The soul of each JZ Microphones condenser microphone is the unique Golden Drop Capsule technology. Using this innovation, the capsule's ...",
+      "htmlSnippet": "GOLDEN DROP CAPSULE ... The soul of each JZ \u003cb\u003eMicrophones\u003c/b\u003e condenser \u003cb\u003emicrophone\u003c/b\u003e is the unique Golden Drop Capsule technology. Using this innovation, the capsule&#39;s&nbsp;...",
+      "cacheId": "HnSXTjci7IgJ",
+      "formattedUrl": "https://usashop.jzmic.com/",
+      "htmlFormattedUrl": "https://usashop.jzmic.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtUoF7D75tDRBA4g2wlTN6nbo4xonFcYuDD3TF4VFdPhui4LcSpYFqMWo&s",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "organization": [
+          {
+            "logo": "https://usashop.jzmic.com/cdn/shop/files/JZ_Logo_New_220x.png?v=1613710711",
+            "url": "https://usashop.jzmic.com/"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.shopify.com/s/files/1/0297/5293/files/JZ_Logo_New.png?height=628&pad_color=ffffff&v=1613710711&width=1200",
+            "theme-color": "#bda068",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "JZ Microphones: handcrafted, premium-level studio microphones",
+            "og:image:width": "1200",
+            "og:site_name": "JZ Recording Equipment",
+            "og:title": "JZ Microphones: handcrafted, premium-level studio microphones",
+            "shopify-checkout-api-token": "c282c6d2ee8cc2c4cecb2fea85a91da5",
+            "og:image:height": "628",
+            "og:description": "Discover real breakthrough in microphone technology. Visit JZ Store!",
+            "og:image:secure_url": "https://cdn.shopify.com/s/files/1/0297/5293/files/JZ_Logo_New.png?height=628&pad_color=ffffff&v=1613710711&width=1200",
+            "facebook-domain-verification": "bmkqc6fbcl272cye90xl76064mi0ha",
+            "twitter:site": "@jzmic",
+            "viewport": "width=device-width,initial-scale=1",
+            "twitter:description": "Discover real breakthrough in microphone technology. Visit JZ Store!",
+            "shopify-digital-wallet": "/2975293/digital_wallets/dialog",
+            "og:url": "https://usashop.jzmic.com/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.shopify.com/s/files/1/0297/5293/files/JZ_Logo_New.png?height=628&pad_color=ffffff&v=1613710711&width=1200"
+          }
+        ]
+      }
+    }
+  ]
+}

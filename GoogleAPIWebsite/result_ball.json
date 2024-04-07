@@ -1,0 +1,1413 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - ball",
+        "totalResults": "5650000000",
+        "searchTerms": "ball",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - ball",
+        "totalResults": "5650000000",
+        "searchTerms": "ball",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f1983ada45b544d73"
+      }
+    ]
+  },
+  "context": {
+    "title": "AhmadSearchEngine"
+  },
+  "searchInformation": {
+    "searchTime": 0.174291,
+    "formattedSearchTime": "0.17",
+    "totalResults": "5650000000",
+    "formattedTotalResults": "5,650,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Home - Ball",
+      "htmlTitle": "Home - \u003cb\u003eBall\u003c/b\u003e",
+      "link": "https://www.ball.com/",
+      "displayLink": "www.ball.com",
+      "snippet": "Ball Corporation is the world's leading provider of innovative, sustainable aluminum packaging for beverage, personal care and household products, ...",
+      "htmlSnippet": "\u003cb\u003eBall\u003c/b\u003e Corporation is the world&#39;s leading provider of innovative, sustainable aluminum packaging for beverage, personal care and household products,&nbsp;...",
+      "cacheId": "vaU0tN18g8gJ",
+      "formattedUrl": "https://www.ball.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eball\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcvwTLj0lBaWnl_TdwUOMpxYQqEVZr2Z-nW8m1xEs4c2KYFb3mfjXW&s",
+            "width": "76",
+            "height": "76"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.ball.com/img/template-images/ball-logo.png",
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Home",
+            "og:site_name": "ball.com",
+            "twitter:site": "Ball",
+            "viewport": "width=device-width,initial-scale=1.0",
+            "twitter:description": "Ball Corporation is the world’s leading provider of innovative, sustainable aluminum packaging for beverage, personal care and household products, as well as other technologies and services.",
+            "og:title": "Home",
+            "og:url": "https://www.ball.com/",
+            "og:description": "Ball Corporation is the world’s leading provider of innovative, sustainable aluminum packaging for beverage, personal care and household products, as well as other technologies and services.",
+            "twitter:image": "https://www.ball.com/img/template-images/ball-logo.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.ball.com/img/template-images/ball-logo.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ball® Mason Jars & Home Canning",
+      "htmlTitle": "\u003cb\u003eBall\u003c/b\u003e® Mason Jars &amp; Home Canning",
+      "link": "https://www.ballmasonjars.com/",
+      "displayLink": "www.ballmasonjars.com",
+      "snippet": "Simply Organized for Spring. Get every space decluttered and streamlined with beautiful, functional Ball® storage jars. Shop Ball Jars Shop Ball Jars ...",
+      "htmlSnippet": "Simply Organized for Spring. Get every space decluttered and streamlined with beautiful, functional \u003cb\u003eBall\u003c/b\u003e® storage jars. Shop \u003cb\u003eBall\u003c/b\u003e Jars Shop \u003cb\u003eBall\u003c/b\u003e Jars&nbsp;...",
+      "cacheId": "cw0upp7bXSkJ",
+      "formattedUrl": "https://www.ballmasonjars.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eball\u003c/b\u003emasonjars.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdDaP-Qkm8_j4edYPWKWLgBWpfWyetAhgWPlDAlOBoe_OHJyzZX0kr&s",
+            "width": "74",
+            "height": "48"
+          }
+        ],
+        "metatags": [
+          {
+            "analyticsglobalparamsobject": "core-pageview",
+            "referrer": "no-referrer-when-downgrade",
+            "og:image": "https://www.ballmasonjars.com/on/demandware.static/Sites-freshpreserving-Site/-/default/dwe565903e/images/brand-logo-metaimage.png",
+            "og:site_name": "Ball",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "Ball® Mason Jars & Home Canning",
+            "analyticscorepageviewlink": "core-pageview",
+            "og:description": "Home to Ball® mason jars, freshTECH appliances, canning supplies, and ingredients. Learn More."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.ballmasonjars.com/on/demandware.static/Sites-freshpreserving-Site/-/default/dwe565903e/images/brand-logo-metaimage.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ball State University | Muncie, Indiana | We Fly",
+      "htmlTitle": "\u003cb\u003eBall\u003c/b\u003e State University | Muncie, Indiana | We Fly",
+      "link": "https://www.bsu.edu/",
+      "displayLink": "www.bsu.edu",
+      "snippet": "Founded in 1918 in Muncie, Indiana, Ball State University offers about 120 majors and 100 graduate degrees through seven academic colleges.",
+      "htmlSnippet": "Founded in 1918 in Muncie, Indiana, \u003cb\u003eBall\u003c/b\u003e State University offers about 120 majors and 100 graduate degrees through seven academic colleges.",
+      "cacheId": "KV0qXcfyeSsJ",
+      "formattedUrl": "https://www.bsu.edu/",
+      "htmlFormattedUrl": "https://www.bsu.edu/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.bsu.edu/-/media/www/images/home/defaultopengraph.jpg?sc_lang=en",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Ball State University | We Fly",
+            "theme-color": "#ba0c2f",
+            "be:sdk": "dotnet_sdk_1.4.22",
+            "msvalidate.01": "331A84EFB90EF55CECD1938D28E9A9CE",
+            "og:title": "Ball State University | We Fly",
+            "og:description": "Founded in 1918 in Muncie, Indiana, Ball State University offers about 120 majors and 100 graduate degrees through seven academic colleges.",
+            "twitter:creator": "@BallState",
+            "twitter:image": "https://www.bsu.edu/-/media/www/images/home/defaultopengraph.jpg?sc_lang=en",
+            "be:norm_url": "https%3a%2f%2fwww.bsu.edu%2f",
+            "be:capsule_url": "https%3a%2f%2fixfd1-api.bc0a.com%2fapi%2fixf%2f1.0.0%2fget_capsule%2ff00000000277771%2f0407707799",
+            "twitter:site": "@BallState",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Founded in 1918 in Muncie, Indiana, Ball State University offers about 120 majors and 100 graduate degrees through seven academic colleges.",
+            "be:api_dt": "py_2024; pm_03; pd_18; ph_07; pmh_45; p_epoch:1710773121908",
+            "be:mod_dt": "py_2024; pm_03; pd_18; ph_07; pmh_45; p_epoch:1710773121908",
+            "be:timer": "16ms",
+            "og:url": "https://www.bsu.edu/",
+            "be:orig_url": "https%3a%2f%2fwww.bsu.edu%2f",
+            "be:messages": "0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.bsu.edu/-/media/www/images/home/defaultopengraph.jpg?sc_lang=en"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ball Definition & Meaning - Merriam-Webster",
+      "htmlTitle": "\u003cb\u003eBall\u003c/b\u003e Definition &amp; Meaning - Merriam-Webster",
+      "link": "https://www.merriam-webster.com/dictionary/ball",
+      "displayLink": "www.merriam-webster.com",
+      "snippet": "The meaning of BALL is a round or roundish body or mass. How to use ball in a sentence.",
+      "htmlSnippet": "The meaning of \u003cb\u003eBALL\u003c/b\u003e is a round or roundish body or mass. How to use \u003cb\u003eball\u003c/b\u003e in a sentence.",
+      "cacheId": "DPUEEH8eLu0J",
+      "formattedUrl": "https://www.merriam-webster.com/dictionary/ball",
+      "htmlFormattedUrl": "https://www.merriam-webster.com/dictionary/\u003cb\u003eball\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKksTSKYwpW8It403nrjw5t1_a8pLO2PI6ImEG7uvFrNfacgiziPZgG-_O&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#2b5797",
+            "og:image": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+            "twitter:title": "Definition of BALL",
+            "twitter:card": "summary",
+            "theme-color": "#ffffff",
+            "twitter:url": "https://www.merriam-webster.com/dictionary/ball",
+            "og:title": "Definition of BALL",
+            "twitter:aria-text": "Share the Definition of ball on Twitter",
+            "og:aria-text": "Post the Definition of ball to Facebook",
+            "og:description": "a round or roundish body or mass: such as; a spherical or ovoid body used in a game or sport —used figuratively in phrases like the ball is in your court to indicate who has the responsibility or opportunity for further action; earth, globe… See the full definition",
+            "twitter:image": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
+            "referrer": "unsafe-url",
+            "fb:app_id": "178450008855735",
+            "twitter:site": "@MerriamWebster",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "a round or roundish body or mass: such as… See the full definition",
+            "og:url": "https://www.merriam-webster.com/dictionary/ball"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Welcome to BALL Watch",
+      "htmlTitle": "Welcome to \u003cb\u003eBALL\u003c/b\u003e Watch",
+      "link": "https://www.ballwatch.com/",
+      "displayLink": "www.ballwatch.com",
+      "snippet": "BALLWatch, BALLWatch.com.",
+      "htmlSnippet": "BALLWatch, BALLWatch.com.",
+      "cacheId": "t5GxugdxvWIJ",
+      "formattedUrl": "https://www.ballwatch.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eball\u003c/b\u003ewatch.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ9bBxAXb4QbVaGjy-U9WORJCDOUN4R1ZV-k2MQ_ZNNzqGu1OWvxOS_V8&s",
+            "width": "176",
+            "height": "286"
+          }
+        ],
+        "metatags": [
+          {
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1,user-scalable=0, minimum-scale=1.0, maximum-scale=1.0",
+            "apple-mobile-web-app-capable": "YES"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.ballwatch.com/global/images/opening_train1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Gov Ball | New York City | June 7-9 2024",
+      "htmlTitle": "Gov \u003cb\u003eBall\u003c/b\u003e | New York City | June 7-9 2024",
+      "link": "https://www.governorsballmusicfestival.com/",
+      "displayLink": "www.governorsballmusicfestival.com",
+      "snippet": "Gov Ball returns to Flushing Meadows Corona Park, in New York City, NY on June 7-9, 2024. Stay connected for upcoming announcements, artist news, giveaways, ...",
+      "htmlSnippet": "Gov \u003cb\u003eBall\u003c/b\u003e returns to Flushing Meadows Corona Park, in New York City, NY on June 7-9, 2024. Stay connected for upcoming announcements, artist news, giveaways,&nbsp;...",
+      "cacheId": "JvbAhsTBoWkJ",
+      "formattedUrl": "https://www.governorsballmusicfestival.com/",
+      "htmlFormattedUrl": "https://www.governors\u003cb\u003eball\u003c/b\u003emusicfestival.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXKdzD1JJ0iHylqVmEaWISoYvgrv1AvrblLtWqou2jTLHg3FTvXjCnJzqz&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "Event": [
+          {
+            "endDate": "2024-06-09",
+            "eventStatus": "http://schema.org/EventScheduled",
+            "name": "GovBall Festival",
+            "eventAttendanceMode": "http://schema.org/OfflineEventAttendanceMode",
+            "startDate": "2024-06-07"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://assets-global.website-files.com/65802876202510fc31c68b7e/6580744d05be8aa69f19983e_govball-og-min.png",
+            "twitter:title": "Gov Ball | New York City | June 7-9 2024",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Gov Ball returns to Flushing Meadows Corona Park, in New York City, NY on June 7-9, 2024. Stay connected for upcoming announcements, artist news, giveaways, and more!",
+            "og:title": "Gov Ball | New York City | June 7-9 2024",
+            "og:description": "Gov Ball returns to Flushing Meadows Corona Park, in New York City, NY on June 7-9, 2024. Stay connected for upcoming announcements, artist news, giveaways, and more!",
+            "twitter:image": "https://assets-global.website-files.com/65802876202510fc31c68b7e/6580744d05be8aa69f19983e_govball-og-min.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://assets-global.website-files.com/65802876202510fc31c68b7e/6580744d05be8aa69f19983e_govball-og-min.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Matthew Ball (@ballmatthew) / X",
+      "htmlTitle": "Matthew \u003cb\u003eBall\u003c/b\u003e (@ballmatthew) / X",
+      "link": "https://twitter.com/ballmatthew?lang=en",
+      "displayLink": "twitter.com",
+      "snippet": "Entrepreneur, advisor, angel investor (not a VC), inter/national bestselling author, and TV/film/game producer. Retired wildfire fighter, active battle ...",
+      "htmlSnippet": "Entrepreneur, advisor, angel investor (not a VC), inter/national bestselling author, and TV/film/game producer. Retired wildfire fighter, active battle&nbsp;...",
+      "cacheId": "pj07BKYuzuQJ",
+      "formattedUrl": "https://twitter.com/ballmatthew?lang=en",
+      "htmlFormattedUrl": "https://twitter.com/\u003cb\u003eball\u003c/b\u003ematthew?lang=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8RNx74Bcw0Dar9PTdCOBTb3xDGQqPu6oGDNyHMhWiQV4wklBhCR3D7Gd5&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://pbs.twimg.com/media/GGaIa55XcAAoxw0.jpg",
+            "width": "1000",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GGaIa55XcAAoxw0?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GKQc72iWYAAth99.jpg",
+            "width": "945",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GKQc72iWYAAth99?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs.jpg",
+            "width": "640",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs.jpg",
+            "width": "640",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs.jpg",
+            "width": "640",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GJ_8FvKWMAAgoNs?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GKFcakpWsAEK4pB.jpg",
+            "width": "2385",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GKFcakpWsAEK4pB?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GKFcYgOWgAAFpow.jpg",
+            "width": "2382",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GKFcYgOWgAAFpow?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GIveY9qXAAIh1z_.jpg",
+            "width": "1016",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GIveY9qXAAIh1z_?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GEi3zBsWIAASegO.jpg",
+            "width": "4096",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GEi3zBsWIAASegO?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GEi3qAFXEAAUhBg.jpg",
+            "width": "4096",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GEi3qAFXEAAUhBg?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GEi3qAHXoAALiP3.jpg",
+            "width": "4096",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GEi3qAHXoAALiP3?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GEi341hWsAAF4A8.jpg",
+            "width": "4096",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GEi341hWsAAF4A8?format=jpg&name=thumb"
+          },
+          {
+            "contenturl": "https://pbs.twimg.com/media/GIk8l0CXMAABQqE.jpg",
+            "width": "1517",
+            "caption": "Image",
+            "thumbnailurl": "https://pbs.twimg.com/media/GIk8l0CXMAABQqE?format=jpg&name=thumb"
+          }
+        ],
+        "person": [
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "159367166",
+            "givenname": "Michael Dempsey",
+            "additionalname": "mhdempsey"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "20718745",
+            "givenname": "Tim Smith",
+            "additionalname": "timpaulsmith"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "22199531",
+            "givenname": "Christopher Dring",
+            "additionalname": "Chris_Dring"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          },
+          {
+            "identifier": "2434397022",
+            "givenname": "Matthew Ball",
+            "additionalname": "ballmatthew"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "74",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1758242915963244697/likes"
+          },
+          {
+            "userinteractioncount": "12",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1758242915963244697/retweets"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1758242915963244697/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1758242915963244697"
+          },
+          {
+            "userinteractioncount": "54",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1775576425795326083/likes"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1775576425795326083/retweets"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1775576425795326083/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1775576425795326083"
+          },
+          {
+            "userinteractioncount": "104",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/mhdempsey/status/1775333345980727464/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/mhdempsey/status/1775333345980727464/retweets"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/mhdempsey/status/1775333345980727464/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/mhdempsey/status/1775333345980727464"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1775255057757257834/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1775255057757257834/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1775255057757257834/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1775255057757257834"
+          },
+          {
+            "userinteractioncount": "1583",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/likes"
+          },
+          {
+            "userinteractioncount": "259",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/retweets"
+          },
+          {
+            "userinteractioncount": "73",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "29",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199"
+          },
+          {
+            "userinteractioncount": "37",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774839721945944548/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774839721945944548/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774839721945944548/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774839721945944548"
+          },
+          {
+            "userinteractioncount": "1583",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/likes"
+          },
+          {
+            "userinteractioncount": "259",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/retweets"
+          },
+          {
+            "userinteractioncount": "73",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "29",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199"
+          },
+          {
+            "userinteractioncount": "53",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774477753292652967/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774477753292652967/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774477753292652967/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774477753292652967"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774834299298074784/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774834299298074784/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774834299298074784/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774834299298074784"
+          },
+          {
+            "userinteractioncount": "7",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1774801566790267012/likes"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1774801566790267012/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1774801566790267012/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1774801566790267012"
+          },
+          {
+            "userinteractioncount": "24",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1770470586822910088/likes"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1770470586822910088/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1770470586822910088/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1770470586822910088"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1770471545556832300/likes"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1770471545556832300/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1770471545556832300/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1770471545556832300"
+          },
+          {
+            "userinteractioncount": "14",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/timpaulsmith/status/1768762167191572891/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/timpaulsmith/status/1768762167191572891/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/timpaulsmith/status/1768762167191572891/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/timpaulsmith/status/1768762167191572891"
+          },
+          {
+            "userinteractioncount": "142",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1768755243557290288/likes"
+          },
+          {
+            "userinteractioncount": "13",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1768755243557290288/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1768755243557290288/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1768755243557290288"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/Chris_Dring/status/1768305568106598475/likes"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/Chris_Dring/status/1768305568106598475/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/Chris_Dring/status/1768305568106598475/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/Chris_Dring/status/1768305568106598475"
+          },
+          {
+            "userinteractioncount": "39",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1768068969095721014/likes"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1768068969095721014/retweets"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1768068969095721014/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "4",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1768068969095721014"
+          },
+          {
+            "userinteractioncount": "54",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1768011043647664429/likes"
+          },
+          {
+            "userinteractioncount": "5",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1768011043647664429/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1768011043647664429/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "12",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1768011043647664429"
+          },
+          {
+            "userinteractioncount": "14",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1768020385910431800/likes"
+          },
+          {
+            "userinteractioncount": "1",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1768020385910431800/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1768020385910431800/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1768020385910431800"
+          },
+          {
+            "userinteractioncount": "25",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1767637801934238116/likes"
+          },
+          {
+            "userinteractioncount": "6",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1767637801934238116/retweets"
+          },
+          {
+            "userinteractioncount": "3",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1767637801934238116/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "19",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1767637801934238116"
+          },
+          {
+            "userinteractioncount": "8",
+            "interactiontype": "https://schema.org/LikeAction",
+            "name": "Likes",
+            "url": "https://twitter.com/ballmatthew/status/1767642829361225801/likes"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Retweets",
+            "url": "https://twitter.com/ballmatthew/status/1767642829361225801/retweets"
+          },
+          {
+            "userinteractioncount": "0",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Quotes",
+            "url": "https://twitter.com/ballmatthew/status/1767642829361225801/retweets/with_comments"
+          },
+          {
+            "userinteractioncount": "2",
+            "interactiontype": "https://schema.org/InteractAction",
+            "name": "Replies",
+            "url": "https://twitter.com/ballmatthew/status/1767642829361225801"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://pbs.twimg.com/profile_images/1434863337473458182/JckcZMpU_200x200.jpg",
+            "theme-color": "#FFFFFF",
+            "og:type": "profile",
+            "og:site_name": "X (formerly Twitter)",
+            "al:ios:app_name": "X",
+            "apple-mobile-web-app-title": "Twitter",
+            "og:title": "Matthew Ball (@ballmatthew) on X",
+            "al:android:package": "com.twitter.android",
+            "al:ios:url": "twitter://user?screen_name=ballmatthew",
+            "title": "Matthew Ball (@ballmatthew) on X",
+            "og:description": "Entrepreneur, advisor, angel investor (not a VC), inter/national bestselling author, and TV/film/game producer. Retired wildfire fighter, active battle royaler.",
+            "al:ios:app_store_id": "333903271",
+            "facebook-domain-verification": "x6sdcc8b5ju3bh8nbm59eswogvg6t1",
+            "al:android:url": "twitter://user?screen_name=ballmatthew",
+            "fb:app_id": "2231777543",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0,viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://twitter.com/ballmatthew",
+            "al:android:app_name": "X"
+          }
+        ],
+        "collection": [
+          {
+            "name": "Profile posts"
+          }
+        ],
+        "creativework": [
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/kWgXyPtRlW"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/U0bOEApcL0"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/hdSkS5oF25"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/hdSkS5oF25"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/vJZs2yPUmb"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/l8wpUbVUDG"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/VFc56FwU3e"
+          },
+          {
+            "name": "Expanded Tweet URLs",
+            "url": "https://t.co/0VOwMy6tcu"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pbs.twimg.com/profile_images/1434863337473458182/JckcZMpU_200x200.jpg"
+          }
+        ],
+        "socialmediaposting": [
+          {
+            "identifier": "1758242915963244697",
+            "commentcount": "6",
+            "articlebody": "Excited announce my national best-selling book (US, UK, China, and Canada) will release a FULLY REVISED AND UPDATED edition in July 2024 (Amazon: https://amazon.com/Metaverse-Revised-Updated-Buildi...",
+            "ispartof": "https://twitter.com/ballmatthew/status/1758242914042249575",
+            "position": "1",
+            "datecreated": "2024-02-15T21:32:32.000Z",
+            "datepublished": "2024-02-15T21:32:32.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1758242915963244697"
+          },
+          {
+            "identifier": "1775576425795326083",
+            "commentcount": "1",
+            "articlebody": "NYT-as-a-gaming company in another picture (Via @ankbul, Scopely's founder and CTO) Ranks third behind Call of Duty ($35 billion since 2002) and Monopoly Go ($2B+ in 11 months, biggest new...",
+            "position": "2",
+            "datecreated": "2024-04-03T17:29:43.000Z",
+            "isbasedon": "https://twitter.com/ballmatthew/status/1774413955940639199",
+            "datepublished": "2024-04-03T17:29:43.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1775576425795326083"
+          },
+          {
+            "identifier": "1775335710553526628",
+            "position": "3",
+            "datecreated": "2024-04-03T01:33:12.000Z",
+            "datepublished": "2024-04-03T01:33:12.000Z"
+          },
+          {
+            "identifier": "1775333345980727464",
+            "commentcount": "6",
+            "articlebody": "Late to this article and praise but…I first met @kylesamani and @TusharJain_ as they were starting Multicoin. In our first meeting, Kyle I believe was talking about this dev named FluffyPony...",
+            "datecreated": "2024-04-03T01:23:48.000Z",
+            "datepublished": "2024-04-03T01:23:48.000Z",
+            "url": "https://twitter.com/mhdempsey/status/1775333345980727464"
+          },
+          {
+            "identifier": "1775255057757257834",
+            "commentcount": "4",
+            "articlebody": "The Apple Vision Pro released two months ago. *If* you own it (and are not a developer), when did you last use it?",
+            "position": "4",
+            "datecreated": "2024-04-02T20:12:43.000Z",
+            "datepublished": "2024-04-02T20:12:43.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1775255057757257834"
+          },
+          {
+            "identifier": "1774881622090719415",
+            "position": "5",
+            "datecreated": "2024-04-01T19:28:49.000Z",
+            "datepublished": "2024-04-01T19:28:49.000Z"
+          },
+          {
+            "identifier": "1774413955940639199",
+            "commentcount": "29",
+            "articlebody": "The New York Times is now a gaming company on the basis of customer time spent (From ValueAct, Data estimated by Yipit, Source: https://sec.gov/Archives/edgar/data/1351069/000119312524062156/d80929...",
+            "datecreated": "2024-03-31T12:30:28.000Z",
+            "datepublished": "2024-03-31T12:30:28.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199"
+          },
+          {
+            "identifier": "1774839721945944548",
+            "commentcount": "2",
+            "articlebody": "I've known two founders to go through SPEEDRUN in the last year and they both benefited greatly and recommend it publicly and privately to all other gaming (and gaming adjacent) founders. Glad...",
+            "position": "6",
+            "datecreated": "2024-04-01T16:42:19.000Z",
+            "isbasedon": "https://twitter.com/andrewchen/status/1774836708070343131",
+            "datepublished": "2024-04-01T16:42:19.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774839721945944548"
+          },
+          {
+            "identifier": "1774413955940639199",
+            "commentcount": "29",
+            "articlebody": "The New York Times is now a gaming company on the basis of customer time spent (From ValueAct, Data estimated by Yipit, Source: https://sec.gov/Archives/edgar/data/1351069/000119312524062156/d80929...",
+            "position": "7",
+            "datecreated": "2024-03-31T12:30:28.000Z",
+            "datepublished": "2024-03-31T12:30:28.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774413955940639199"
+          },
+          {
+            "identifier": "1774477753292652967",
+            "commentcount": "2",
+            "articlebody": "More folks are surprised (or alarmed) by this info than I would have thought. In 2000, 40% of U.S. newspaper revenue came from the sale of classifieds - a greater share than either subscriber...",
+            "ispartof": "https://twitter.com/ballmatthew/status/1774413989503512868",
+            "position": "8",
+            "datecreated": "2024-03-31T16:43:59.000Z",
+            "datepublished": "2024-03-31T16:43:59.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774477753292652967"
+          },
+          {
+            "identifier": "1774834299298074784",
+            "commentcount": "0",
+            "articlebody": "(For those asking, yes posted this last week, but had the wrong source and it was being recirculated as such, so reposted it)",
+            "ispartof": "https://twitter.com/ballmatthew/status/1774477753292652967",
+            "position": "9",
+            "datecreated": "2024-04-01T16:20:46.000Z",
+            "datepublished": "2024-04-01T16:20:46.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774834299298074784"
+          },
+          {
+            "identifier": "1774801566790267012",
+            "commentcount": "0",
+            "articlebody": "Updated for Q1'24: Lifetime VC & PE direct investment in crypto start-ups now at $83B (*excludes secondary and retail) ▶ Half of this money is \u003c2.33 years old (Dec 2021-) ▶ Q1'24 is first...",
+            "position": "10",
+            "datecreated": "2024-04-01T14:10:42.000Z",
+            "datepublished": "2024-04-01T14:10:42.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1774801566790267012"
+          },
+          {
+            "identifier": "1770470586822910088",
+            "commentcount": "1",
+            "articlebody": "The Monarchy is now getting mocked by a daisy chain of airports. What a historic PR collapse. https://x.com/PragueAirport//PragueAirport/status/1770110165053833567…",
+            "position": "11",
+            "datecreated": "2024-03-20T15:20:56.000Z",
+            "datepublished": "2024-03-20T15:20:56.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1770470586822910088"
+          },
+          {
+            "identifier": "1770471545556832300",
+            "commentcount": "1",
+            "articlebody": "Here is a thread of... NYC public services?",
+            "ispartof": "https://twitter.com/ballmatthew/status/1770470586822910088",
+            "position": "12",
+            "datecreated": "2024-03-20T15:24:44.000Z",
+            "isbasedon": "https://twitter.com/nycgov/status/1770131297001673158",
+            "datepublished": "2024-03-20T15:24:44.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1770471545556832300"
+          },
+          {
+            "identifier": "1768763912974168101",
+            "position": "13",
+            "datecreated": "2024-03-15T22:19:13.000Z",
+            "datepublished": "2024-03-15T22:19:13.000Z"
+          },
+          {
+            "identifier": "1768762167191572891",
+            "commentcount": "2",
+            "articlebody": "One important factor is that almost all of the Monopoly Go marketing happened after the game launched, so they knew could spend \u003c$500M profitably and recoup within weeks/months (vs spending...",
+            "ispartof": "https://twitter.com/ballmatthew/status/1768755243557290288",
+            "datecreated": "2024-03-15T22:12:17.000Z",
+            "datepublished": "2024-03-15T22:12:17.000Z",
+            "url": "https://twitter.com/timpaulsmith/status/1768762167191572891"
+          },
+          {
+            "identifier": "1768755243557290288",
+            "commentcount": "4",
+            "articlebody": "One way to better understand gaming in 2024 Monopoly Go is the biggest game in years, generating $2B in 11 months @stephentotilo's GameFile reports the customer acquisition spend was \"under...",
+            "position": "14",
+            "datecreated": "2024-03-15T21:44:46.000Z",
+            "isbasedon": "https://twitter.com/stephentotilo/status/1768752578613924140",
+            "datepublished": "2024-03-15T21:44:46.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1768755243557290288"
+          },
+          {
+            "identifier": "1768315147037093972",
+            "position": "15",
+            "datecreated": "2024-03-14T16:35:59.000Z",
+            "datepublished": "2024-03-14T16:35:59.000Z"
+          },
+          {
+            "identifier": "1768305568106598475",
+            "commentcount": "2",
+            "articlebody": "Full story here: https://gamesindustry.biz/2024-game-spending-down-2-is-circana-analysts-most-optimistic-outlook…",
+            "datecreated": "2024-03-14T15:57:55.000Z",
+            "isbasedon": "https://twitter.com/ballmatthew/status/1768068969095721014",
+            "datepublished": "2024-03-14T15:57:55.000Z",
+            "url": "https://twitter.com/Chris_Dring/status/1768305568106598475"
+          },
+          {
+            "identifier": "1768068969095721014",
+            "commentcount": "4",
+            "articlebody": "Ooph. Circana estimating that the \"optimistic case\" for 2024 US consumer spend on video games is a 2% YoY decline (2023 was already 4.1% down from 2021 *before inflation*). Circana warns it...",
+            "position": "16",
+            "datecreated": "2024-03-14T00:17:46.000Z",
+            "isbasedon": "https://twitter.com/ballmatthew/status/1749853184435032436",
+            "datepublished": "2024-03-14T00:17:46.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1768068969095721014"
+          },
+          {
+            "identifier": "1768011043647664429",
+            "commentcount": "12",
+            "articlebody": "Not a scientific poll, but my followers (and extended network) should be way over-indexed to usage. Not great results.",
+            "position": "17",
+            "datecreated": "2024-03-13T20:27:35.000Z",
+            "datepublished": "2024-03-13T20:27:35.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1768011043647664429"
+          },
+          {
+            "identifier": "1768020385910431800",
+            "commentcount": "6",
+            "articlebody": "Suffice to say a product intended to replace many computing experiences and which costs $3,500 without tax... Should not have 50% of an overindexed customer base go 2+ weeks without using it......",
+            "ispartof": "https://twitter.com/ballmatthew/status/1768011043647664429",
+            "position": "18",
+            "datecreated": "2024-03-13T21:04:42.000Z",
+            "datepublished": "2024-03-13T21:04:42.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1768020385910431800"
+          },
+          {
+            "identifier": "1767637801934238116",
+            "commentcount": "19",
+            "articlebody": "Vision Pro owners (who are not developers): when did you last use the device?",
+            "position": "19",
+            "datecreated": "2024-03-12T19:44:27.000Z",
+            "datepublished": "2024-03-12T19:44:27.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1767637801934238116"
+          },
+          {
+            "identifier": "1767642829361225801",
+            "commentcount": "2",
+            "articlebody": "(My followers should be massively overindexed to usage)",
+            "ispartof": "https://twitter.com/ballmatthew/status/1767637801934238116",
+            "position": "20",
+            "datecreated": "2024-03-12T20:04:26.000Z",
+            "datepublished": "2024-03-12T20:04:26.000Z",
+            "url": "https://twitter.com/ballmatthew/status/1767642829361225801"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ernie Ball: Electric Guitar Strings, Acoustic Guitar Strings, Bass ...",
+      "htmlTitle": "Ernie \u003cb\u003eBall\u003c/b\u003e: Electric Guitar Strings, Acoustic Guitar Strings, Bass ...",
+      "link": "https://www.ernieball.com/",
+      "displayLink": "www.ernieball.com",
+      "snippet": "For over 50 years, Ernie Ball Slinky electric guitar strings have been the favorite of musicians across the globe. Or try out the newest addition to the family, ...",
+      "htmlSnippet": "For over 50 years, Ernie \u003cb\u003eBall\u003c/b\u003e Slinky electric guitar strings have been the favorite of musicians across the globe. Or try out the newest addition to the family,&nbsp;...",
+      "cacheId": "8pyOvRdk0hwJ",
+      "formattedUrl": "https://www.ernieball.com/",
+      "htmlFormattedUrl": "https://www.ernie\u003cb\u003eball\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrRP7qLlWTJaOhuHXwQahPdevUQO3w2w-tJcvSbSrEsEnU9wXF5RIZPr2B&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://s3.us-west-2.amazonaws.com/static.ernieball.com/website/images/headers/image/full/1.jpg?1599066524",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories",
+            "og:image:width": "1200",
+            "og:site_name": "Ernie Ball",
+            "csrf_token": "vNMaebqvgQnCNnw3mbXNQxeOKzpj0QvzSR5SvN8l",
+            "og:title": "Electric Guitar Strings, Acoustic Guitar Strings, Bass Strings, and Guitar Accessories",
+            "og:image:height": "630",
+            "twitter:image:height": "630",
+            "og:description": "The world's leading manufacturer of premium guitar strings, bass strings, and guitar accessories. Discover which strings your favorite artists use. Locate where to purchase Ernie Ball strings.",
+            "twitter:image": "https://s3.us-west-2.amazonaws.com/static.ernieball.com/website/images/headers/image/full/1.jpg?1599066524",
+            "fb:app_id": "160449763972020",
+            "twitter:site": "@ernieball",
+            "twitter:image:width": "1200",
+            "viewport": "width=device-width,initial-scale=1,user-scalable=0,maximum-scale=1",
+            "twitter:description": "The world's leading manufacturer of premium guitar strings, bass strings, and guitar accessories. Discover which strings your favorite artists use. Locate where to purchase Ernie Ball strings.",
+            "og:locale": "en_US",
+            "currency": "$|,|.|0",
+            "og:url": "https://www.ernieball.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s3.us-west-2.amazonaws.com/static.ernieball.com/website/images/headers/image/full/1.jpg?1599066524"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Ball Arena",
+      "htmlTitle": "\u003cb\u003eBall\u003c/b\u003e Arena",
+      "link": "https://www.ballarena.com/",
+      "displayLink": "www.ballarena.com",
+      "snippet": "Located in Denver, Colorado, Ball Arena is home to the Denver Nuggets, Colorado Avalanche, and Colorado Mammoth.",
+      "htmlSnippet": "Located in Denver, Colorado, \u003cb\u003eBall\u003c/b\u003e Arena is home to the Denver Nuggets, Colorado Avalanche, and Colorado Mammoth.",
+      "cacheId": "z0uvXcyJsx0J",
+      "formattedUrl": "https://www.ballarena.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eball\u003c/b\u003earena.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8crdjwXGFcpij_1x50HUVtX_bZF9dqk4hNQ-UhySuhPtCJZEQR8bAJZI&s",
+            "width": "305",
+            "height": "165"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.ballarena.com/media/1zpparjw/ball-arena.jpg",
+            "og:type": "website",
+            "fb:app_id": "223454576147704",
+            "og:site_name": "Ball Arena",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0",
+            "og:title": "Home",
+            "og:url": "https://www.ballarena.com/",
+            "og:description": "Ball Arena News"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.ballarena.com/media/1zpparjw/ball-arena.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Home Page | Ball LA",
+      "htmlTitle": "Home Page | \u003cb\u003eBall\u003c/b\u003e LA",
+      "link": "https://www.townofball.com/",
+      "displayLink": "www.townofball.com",
+      "snippet": "Key Links Menu · Mayor's Welcome · Online Payments · Documents · Agendas & Minutes · Town Ordinances · Town Photo's · Latest News · Community Calendar ...",
+      "htmlSnippet": "Key Links Menu &middot; Mayor&#39;s Welcome &middot; Online Payments &middot; Documents &middot; Agendas &amp; Minutes &middot; Town Ordinances &middot; Town Photo&#39;s &middot; Latest News &middot; Community Calendar&nbsp;...",
+      "cacheId": "hdQjIWRmfIEJ",
+      "formattedUrl": "https://www.townofball.com/",
+      "htmlFormattedUrl": "https://www.townof\u003cb\u003eball\u003c/b\u003e.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoWdBc4xZteYdO1FuARwNvViM8n_A_jXUTSXAlFIx7WKfGyk4KjcXG1rgi&s",
+            "width": "220",
+            "height": "229"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "/themes/custom/ballla/ballla_theme/logo.svg",
+            "og:type": "website",
+            "og:site_name": "Ball LA",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:title": "Home Page",
+            "mobileoptimized": "width",
+            "format-detection": "telephone-no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.townofball.com/themes/custom/ballla/ballla_theme/logo.png"
+          }
+        ]
+      }
+    }
+  ]
+}
