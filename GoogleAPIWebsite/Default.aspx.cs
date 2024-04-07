@@ -28,6 +28,8 @@ namespace GoogleAPIWebsite
         protected void Unnamed2_Click(object sender, EventArgs e)
         {
             
+
+
             String key = "";
             String query = ""; 
             String cx = "";
