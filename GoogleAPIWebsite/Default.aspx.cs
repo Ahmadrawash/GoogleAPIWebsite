@@ -1,9 +1,8 @@
 ﻿/*
  * author: Dr. Ahmad Rawashdeh
  * course: Web Technology BIT 386
- * student name: 
- * student number:
- */
+  */
+
 using Microsoft.Ajax.Utilities;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
